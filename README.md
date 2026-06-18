@@ -1,6 +1,9 @@
 <div align="center">
 
 # Shaik Imran Nazeer
+<p align="center">
+  <img src="./Assets/output.gif" width="100%" />
+</p>
 
 ### Data Scientist & ML Engineer | Building Intelligent Systems with LLMs, RAG, and Multi-Agent Architectures
 
