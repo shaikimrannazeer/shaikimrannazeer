@@ -6,18 +6,30 @@
   <img src="./githubb.gif" width="100%" />
 </p>
 
-### Data Scientist & ML Engineer | Building Intelligent Systems with LLMs, RAG, and Multi-Agent Architectures
+### Data Scientist & Gen AI Engineer | Building Intelligent Systems with LLMs, RAG, and Multi-Agent Architectures
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shaikimrannazeer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikimrannazeer7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://imran-3d-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikimrannazeer.ai@gmail.com)
+[
 
-<br>
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="Assets/output.gif" width="100%" alt="Animated banner" />
+](https://github.com/shaikimrannazeer)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/shaikimrannazeer7)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+](https://imran-3d-portfolio.vercel.app)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:shaikimrannazeer.ai@gmail.com)
 
 </div>
 
@@ -25,7 +37,7 @@
 
 ## About Me
 
-I am a Data Scientist and ML Engineer based in Hyderabad, India. I build practical AI systems, from RAG pipelines to multi-agent chatbots, and I teach data science to help others learn the same skills.
+I am a Data Scientist and Gen AI Engineer based in Hyderabad, India. I build practical AI systems, from RAG pipelines to multi-agent chatbots, and I teach data science to help others learn the same skills.
 
 **Currently working on:**
 - Refining production-grade RAG and multi-agent systems (LangChain, GPT-4o-mini, SQL agents)
@@ -34,7 +46,7 @@ I am a Data Scientist and ML Engineer based in Hyderabad, India. I build practic
 - Strengthening system design fundamentals for ML infrastructure
 
 **Tech stack I work with:**
-Python, Django, FastAPI, React, AWS, Docker, PostgreSQL, MongoDB, Redis, LLMs, Prompt Engineering, Vector Databases, System Design
+Python, FastAPI, AWS, Docker, SQLite, LLMs, Prompt Engineering, Vector Databases, System Design
 
 **Ask me about:**
 RAG architecture, multi-agent systems with LangChain, Python for data science, SQL optimization, building teaching curricula, resume and LinkedIn branding for tech roles
@@ -47,11 +59,11 @@ RAG architecture, multi-agent systems with LangChain, Python for data science, S
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs" />
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,tailwind" />
 
 **Cloud & DevOps**
 
@@ -59,16 +71,40 @@ RAG architecture, multi-agent systems with LangChain, Python for data science, S
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite" />
+<img src="https://skillicons.dev/icons?i=sqlite" />
 
 **AI / ML**
 
+
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+
+
+
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+
+
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+
+
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+
+
+
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+
+
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+
 
 **Tools**
 
@@ -101,7 +137,15 @@ RAG architecture, multi-agent systems with LangChain, Python for data science, S
 
 ### Let's build something useful
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikimrannazeer7)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikimrannazeer.ai@gmail.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/shaikimrannazeer7)
+[
+
+![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:shaikimrannazeer.ai@gmail.com)
 
 </div>
